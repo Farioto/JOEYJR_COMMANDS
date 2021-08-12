@@ -1,0 +1,12 @@
+GBC
+Modes:
+AUTO
+CAM - GBcamera
+GBC - GBC 
+GBA - GBA 
+MGBAx - GBA Multi x=0-7
+MULTIx - GBC Multi x=1-4
+ECSD - ElCheapoSD 
+CPLD - MBC3/DIY carts
+NPC - Nintendo Power Cart
+FCEx - GBC Full Chip Erase x=0 or 1                                         
